@@ -1,0 +1,21 @@
+.main-content {
+  flex: 1;
+}
+
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 24px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.footer p {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 6px;
+}
+
+.footer-disclaimer {
+  font-size: 12px !important;
+  color: var(--text-muted) !important;
+}
